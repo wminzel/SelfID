@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { generateDID } from "./crypto";
 
 export default function App() {
